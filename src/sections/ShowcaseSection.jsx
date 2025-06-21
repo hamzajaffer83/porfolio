@@ -52,12 +52,8 @@ const AppShowcase = () => {
               <img src="/images/project1.png" alt="Ryde App Interface" />
             </div>
             <div className="text-content">
-              <h2>
-                On-Demand Rides Made Simple with a Powerful, User-Friendly App
-                called Ryde
-              </h2>
               <p className="text-white-50 md:text-xl">
-                An app built with React Native, Expo, & TailwindCSS for a fast,
+                An website built with React, Gsap, & TailwindCSS for a fast, animated,
                 user-friendly experience.
               </p>
             </div>
@@ -71,7 +67,7 @@ const AppShowcase = () => {
                   alt="Library Management Platform"
                 />
               </div>
-              <h2>The Library Management Platform</h2>
+              <h2>Online Coding Interview Platform</h2>
             </div>
 
             <div className="project" ref={ycDirectoryRef}>
